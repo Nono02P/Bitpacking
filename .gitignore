@@ -1,0 +1,15 @@
+obj/Debug/netstandard1.0/.NETStandard,Version=v1.0.AssemblyAttributes.cs
+obj/Debug/netstandard1.1/.NETStandard,Version=v1.1.AssemblyAttributes.cs
+obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs
+obj/Debug/netstandard1.0/Bitpacking.AssemblyInfo.cs
+obj/Debug/netstandard1.1/Bitpacking.AssemblyInfo.cs
+obj/Debug/netstandard2.0/Bitpacking.AssemblyInfo.cs
+obj/Debug/netstandard1.0/Bitpacking.csproj.FileListAbsolute.txt
+obj/Debug/netstandard1.1/Bitpacking.csproj.FileListAbsolute.txt
+obj/Debug/netstandard2.0/Bitpacking.csproj.FileListAbsolute.txt
+obj/Bitpacking.csproj.nuget.dgspec.json
+obj/Bitpacking.csproj.nuget.g.props
+obj/Bitpacking.csproj.nuget.g.targets
+bin/Debug/netstandard1.1/Bitpacking.deps.json
+bin/Debug/netstandard2.0/Bitpacking.deps.json
+obj/project.assets.json
